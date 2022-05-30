@@ -1,0 +1,6 @@
+[submodule "aks-construction"]
+	path = aks-construction
+	url = https://github.com/Azure/AKS-Construction.git
+[submodule "eshop"]
+	path = eshop
+	url = https://github.com/dotnet-architecture/eShopOnContainers.git
